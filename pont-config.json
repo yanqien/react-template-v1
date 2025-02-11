@@ -1,0 +1,17 @@
+{
+  "originUrl": "",
+  "outDir": "./src/api",
+  "surrounding": "javaScript",
+  "templateType": "fetch",
+  "templatePath": "./tools/pont/Generator",
+  "usingMultipleOrigins": true,
+  "origins": [
+    {
+      "name": "zhikong",
+      "originUrl": "http://172.19.80.10:31003/mediinfo-vela-zhikong/v3/api-docs/1.0"
+    }
+  ],
+  "mocks": {
+    "enable": false
+  }
+}
